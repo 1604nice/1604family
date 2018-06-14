@@ -1,0 +1,25 @@
+1、申请一个github的账号（用户名，账号，密码）
+2、下载git的客户端
+3、上传代码到github的仓库
+A、在本机创建一个文件夹（要和github上的仓库名称一样）
+B、在本机创建好的文件夹中，添加需要上传的数据
+C、然后右键，点击git bash here
+D、输入一系列指令
+I、git init   初始化git环境
+II、git add . (提交当前文件夹下所有数据，git add xxx 指定某一个文件提交)
+III、git commit -m “注释” 提交代码
+IV、git remote add origin xxx   github的仓库地址
+V、git push -u origin master
+输入用户名   密码  
+
+
+账号：201780544
+密码:  Kerrigan07
+姓名：1604nice
+
+
+
+
+
+
+
